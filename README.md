@@ -19,9 +19,9 @@ I look forward to applying what I have learnt to the role of Software Tester and
 ![Charles](https://img.shields.io/badge/Charles-181823?style=for-the-badge&logo=Charles&logoColor=19A7CE)
 
 ### ✏️ My CV and portfolio
-You can download my CV as a PDF from my Google Drive.
+You can download my CV as <a href="https://t.me/dariamkd/">a PDF from my Google Drive</a>.
 
-My portfolio [place for a link]
+My portfolio [place for a link] 
 
 ### 💬 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-181823?style=for-the-badge&logo=telegram&logoColor=35a8e3)](https://t.me/dariamkd)
