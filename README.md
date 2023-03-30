@@ -25,7 +25,7 @@ My portfolio [place for a link]
 
 ### 💬 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-181823?style=for-the-badge&logo=telegram&logoColor=35a8e3)](https://t.me/dariamkd)
-[![Gmail](https://img.shields.io/badge/gmail-181823?style=for-the-badge&logo=gmail&logoColor=e34133)](dariamkd@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-181823?style=for-the-badge&logo=gmail&logoColor=e34133)](https://mail.google.com/mail/?view=cm&to=dariamkd@gmail.com)
 
 <!-- Markdown -->
 
